@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=robot_cv
+PROJECTNAME=kambot_cv
 
 # Active Configuration
 DEFAULTCONF=Debug
